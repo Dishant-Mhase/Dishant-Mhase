@@ -7,12 +7,19 @@ I enjoy experimenting with new technologies, solving problems, and developing pr
 
 🚀 About Me
 🎓 Computer Science Engineering Student
+
 💡 Interested in Artificial Intelligence, Cybersecurity & Full-Stack Development
+
 🔭 Building real-world projects and exploring startup ideas
+
 🛡️ Exploring Digital Forensics and AI-powered security solutions
+
 🌱 Constantly learning, experimenting, and improving
+
 🎯 Focused on becoming a skilled software engineer
+
 🛠️ Technologies & Tools
+
 Languages
 
 Python
