@@ -1,4 +1,5 @@
-##Hey, I'm a Developer! 👋
+Hey, I'm a Developer! 👋
+
 💻 Computer Science Engineering Student | Aspiring Software Engineer | Tech Enthusiast
 I'm passionate about building innovative solutions, exploring emerging technologies, and turning ideas into real-world applications.
 
